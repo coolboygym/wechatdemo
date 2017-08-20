@@ -1,4 +1,6 @@
 # wechatdemo
+
+## Introduction
 Wechat public platform demo
 
 ## Quick Start
