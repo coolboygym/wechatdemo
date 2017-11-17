@@ -6,8 +6,6 @@ import poster.encode
 from poster.streaminghttp import register_openers
 from basic import Basic
 
-from basic import Basic
-
 
 class Material(object):
 
