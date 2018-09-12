@@ -8,3 +8,6 @@ WeChat public platform demo. For more details, click [Here](https://coolboygym.g
 pip install -r requirements.txt
 python main.py 80
 ``` 
+
+## Discussion
+You can join QQ group *821707649* to discuss with author and other developers.
