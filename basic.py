@@ -11,8 +11,8 @@ class Basic:
         self.__leftTime = 0
 
     def __real_get_access_token(self):
-        appId = "xxxxxxxxx"         # 公众号的appid 请在公众号网页上查看
-        appSecret = "xxxxxxxxx"     # 公众号的appSecret 请在公众号网页上查看
+        appId = "wx2ed945b8a2486b85"         # 公众号的appid 请在公众号网页上查看
+        appSecret = "13ddc9f45bd1c63c5ff665b52037f635"     # 公众号的appSecret 请在公众号网页上查看
 
         postUrl = ("https://api.weixin.qq.com/cgi-bin/token?grant_type="
                    "client_credential&appid=%s&secret=%s" % (appId, appSecret))
